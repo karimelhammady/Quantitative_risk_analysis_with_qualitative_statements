@@ -1,4 +1,4 @@
-# Quantitative_risk_analysis_with_qualitative_statements
+# Quantitative risk analysis with qualitative statements tool
 
 ## Description
  A spreadsheet-based tool that uses linguistic terms to estimate the probability of risk occurrence to help experts apply quantitative estimation easily by using common language as input, thus eliminating the need to assign precise probabilities. I have been working diligently on this project for the past year. 
