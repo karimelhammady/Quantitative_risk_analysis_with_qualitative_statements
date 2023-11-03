@@ -5,7 +5,7 @@
 
  ## Requiremnts 
 
- 1. [XLRISK] (https://github.com/pyscripter/XLRisk) excel add-in 
+ 1. [XLRISK](https://github.com/pyscripter/XLRisk) excel add-in 
  2. Latest excel version installed
  3. Enable macros on excel
 
